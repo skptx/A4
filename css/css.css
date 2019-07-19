@@ -16,6 +16,11 @@ header {
 	min-height: 89px;
 	background-color: #000000;
 }
+h1 {
+	color: red;
+
+}
+}
  
 .site-menu {
 	
@@ -38,7 +43,7 @@ header {
 
 .outer-hello {
 	display: flex;
-	width: 1249px;
+	max-width: 1249px;
 	justify-content: center;
 }
  
