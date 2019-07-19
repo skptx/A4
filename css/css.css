@@ -1,0 +1,53 @@
+body {
+	margin: 0;
+
+}
+
+.pre-header {
+	background-color: #e0e0e0;
+}
+
+header {
+
+	display: flex;
+	justify-content: center;
+	max-width: 1249px;
+	margin: 0 auto 0 auto;
+	min-height: 89px;
+	background-color: #000000;
+}
+ 
+.site-menu {
+	
+	width: 93px;
+	height: 89px;
+
+	padding: 0 10px;
+	margin: 0 20px;
+	color: #e0e0e0;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 89px;
+
+
+
+}
+
+.outer-hello {
+	display: flex;
+	width: 1249px;
+	justify-content: center;
+}
+ 
+.img-hello {
+    width: 551px;
+    height: 356px;
+} 
+
+
+.site-menu:hover {
+	background-color: #ff3f40;
+}
